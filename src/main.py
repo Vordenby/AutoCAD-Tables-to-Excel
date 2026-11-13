@@ -1,5 +1,5 @@
  
 class Main():
 
-    def __init__(self, cli) -> None:
+    def __init__(self) -> None:
         pass
